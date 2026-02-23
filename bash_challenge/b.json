@@ -1,0 +1,6 @@
+{
+  "type": "backend",
+  "names": "$ENV",
+  "region": "east-us",
+  "instances": 3
+}

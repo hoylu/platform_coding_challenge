@@ -1,0 +1,6 @@
+{
+  "type": "frontend",
+  "name": "$ENV",
+  "region": "$REGION",
+  "instances": 2
+}

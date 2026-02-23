@@ -1,0 +1,6 @@
+{ 
+  "type": "testing",
+  "name": "$ENV",
+  "region": "$REGION",
+  "instances": 0
+}
